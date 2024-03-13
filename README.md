@@ -18,7 +18,7 @@ The primary purpose of this project is to understand the demographic composition
 
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 ### Goal
-The overarching goal of the project is to analyze the collected demographic data and derive meaningful insights. Through visualizations and key findings, we aim to answer questions such as:
+The  goal of this project is to analyze the collected demographic data and derive meaningful insights. Through visualizations and key findings, we aim to answer questions such as:
 
 - What is the distribution of age groups among students?
 - What are the most common educational levels within the class?
