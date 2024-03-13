@@ -54,7 +54,7 @@ The data was collected through a Google Form survey, covering the following key 
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 
 ### Visualizations
-![Visualization Screenshot](https://github.com/WrittenbyTiana/Skilharvest-Student-Demographic-Analysis/blob/main/Demographic viz.png)
+![Visualization Screenshot](Demographic viz.png)
 
 ## Recommendations
 
