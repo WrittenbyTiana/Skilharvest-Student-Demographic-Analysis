@@ -15,15 +15,6 @@ The **Student Demographic Analysis Project** is initiated to delve into the demo
 ### Purpose
 
 The primary purpose of this project is to understand the demographic composition of the student body. By collecting and analyzing basic demographic information, we seek to identify patterns and trends that can inform educational strategies and contribute to a more customized and inclusive learning experience.
-### Data Collected
-The project collects the following key demographic information from students through a Google Form survey:
-
-- **Age Group:** Categorization of students into different age groups.
-- **Name:** Identification of individual students.
-- **Educational Level:** Determination of the students' current educational levels.
-- **Gender:** Identification of the gender identity of students.
-- **Marital Status:** Information on the marital status of students.
-- **Geographic Information:** Gathering data on the geographic locations of students.
 
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 ### Goal
@@ -42,11 +33,23 @@ Based on these insights, the project intends to provide recommendations for educ
 
 The following tools were employed throughout different stages of the Student Demographic Analysis Project:
 
-- **Google Sheets:** Utilized for data collection through a user-friendly form, facilitating the gathering of demographic information from the student population.
+- **Google Sheets:** Utilized for data collection through a user-friendly form, facilitating gathering demographic information from the student population.
 
-- **Power Query:** Employed for data cleaning processes, ensuring that the collected data is standardized and ready for analysis.
+- **Power Query:** Employed for data cleaning processes, ensuring the collected data is standardized and ready for analysis.
 
 - **Power BI:** Used for data visualization, enabling the creation of insightful charts and visual representations of the demographic analysis results.
 
 From data collection to analysis and visualization, these tools were essential to the project's smooth execution.
+
+## Data Analysis
+
+### Data Collection
+The data was collected through a Google Form survey, covering the following key demographic categories:
+- **Age Group:** Categorization of students into different age groups.
+- **Name:** Identification of individual students.
+- **Educational Level:** Determination of the student's current educational levels.
+- **Gender:** Identification of the gender identity of students.
+- **Marital Status:** Information on the marital status of students.
+- **Geographic Information:** Gathering data on students' geographic locations.
+The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 
