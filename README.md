@@ -53,3 +53,6 @@ The data was collected through a Google Form survey, covering the following key 
 - **Geographic Information:** Gathering data on students' geographic locations.
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 
+### Visualizations
+
+
