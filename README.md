@@ -15,9 +15,7 @@ The **Student Demographic Analysis Project** is initiated to delve into the demo
 ### Purpose
 
 The primary purpose of this project is to understand the demographic composition of the student body. By collecting and analyzing basic demographic information, we seek to identify patterns and trends that can inform educational strategies and contribute to a more customized and inclusive learning experience.
-
 ### Data Collected
-
 The project collects the following key demographic information from students through a Google Form survey:
 
 - **Age Group:** Categorization of students into different age groups.
@@ -28,9 +26,7 @@ The project collects the following key demographic information from students thr
 - **Geographic Information:** Gathering data on the geographic locations of students.
 
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
-
 ### Goal
-
 The overarching goal of the project is to analyze the collected demographic data and derive meaningful insights. Through visualizations and key findings, we aim to answer questions such as:
 
 - What is the distribution of age groups among students?
@@ -40,3 +36,17 @@ The overarching goal of the project is to analyze the collected demographic data
 - How geographically varied is the student body?
 
 Based on these insights, the project intends to provide recommendations for educational strategies, resource allocation, and other considerations that can enhance the overall educational experience for the student population. The ultimate goal is to contribute to a more inclusive and tailored learning environment.
+
+
+## Tools Used
+
+The following tools were employed throughout different stages of the Student Demographic Analysis Project:
+
+- **Google Sheets:** Utilized for data collection through a user-friendly form, facilitating the gathering of demographic information from the student population.
+
+- **Power Query:** Employed for data cleaning processes, ensuring that the collected data is standardized and ready for analysis.
+
+- **Power BI:** Used for data visualization, enabling the creation of insightful charts and visual representations of the demographic analysis results.
+
+From data collection to analysis and visualization, these tools were essential to the project's smooth execution.
+
