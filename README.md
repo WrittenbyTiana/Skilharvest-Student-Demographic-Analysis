@@ -80,5 +80,7 @@ The survey is designed to respect privacy while providing valuable insights into
 - Implement feedback mechanisms to continuously assess and address the evolving needs of the student population.
 - Encourage a sense of community and collaboration among students from different demographics to enhance the overall learning experience.
 
-These recommendations aim to foster an inclusive and supportive educational environment that caters to the diverse characteristics of the student body identified in the demographic analysis.
+These recommendations seek to create an inclusive and supportive educational environment that caters to the diverse characteristics of the student body identified through demographic analysis.
+
+
 
