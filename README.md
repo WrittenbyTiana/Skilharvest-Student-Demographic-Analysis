@@ -33,7 +33,7 @@ Based on these insights, the project intends to provide recommendations for educ
 
 The following tools were employed throughout different stages of the Student Demographic Analysis Project:
 
-- **Google Sheets:** Utilized for data collection through a user-friendly form, facilitating gathering demographic information from the student population.
+- **Google Form:** Utilized for data collection through a user-friendly form, facilitating gathering demographic information from the student population.
 
 - **Power Query:** Employed for data cleaning processes, ensuring the collected data is standardized and ready for analysis.
 
