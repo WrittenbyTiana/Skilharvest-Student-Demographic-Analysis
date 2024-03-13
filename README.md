@@ -1,6 +1,6 @@
 # Skilharvest-Student-Demographic-Analysis
 
-This is a group project that analyzes basic demographic information collected from a Google Form survey conducted among students in a class. The information includes age group, name, educational level, geographic information, and more. The following documentation provides an overview of the project, insights derived from the data, and recommendations based on the analysis.
+This is a group project that analyzes basic demographic information collected from a Google Form survey conducted among students in a class. The information includes age group, name, educational level, geographic information and more. The following documentation provides an overview of the project, insights derived from the data, and recommendations based on the analysis.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -54,7 +54,7 @@ The data was collected through a Google Form survey, covering the following key 
 The survey is designed to respect privacy while providing valuable insights into the diverse characteristics of the student body.
 
 ### Visualizations
-
+![Visualization Screenshot](screenshots/visualization.png)
 
 ## Recommendations
 
