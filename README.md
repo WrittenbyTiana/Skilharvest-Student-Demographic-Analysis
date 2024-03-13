@@ -35,6 +35,8 @@ The following tools were employed throughout different stages of the Student Dem
 
 - **Google Form:** Utilized for data collection, gathering demographic information from the student population.
 
+- **Goole Sheets:** For compiling the data generated from the form.
+
 - **Power Query:** Employed for data cleaning processes, ensuring the collected data is standardized and ready for analysis.
 
 - **Power BI:** Used for data visualization, enabling the creation of insightful charts and visual representations of the demographic analysis results.
