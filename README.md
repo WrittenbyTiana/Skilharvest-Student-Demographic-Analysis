@@ -4,6 +4,7 @@ This project analyzes basic demographic information collected from a Google Form
 
 ## Table of Contents
 - [Overview](#overview)
+- [Tools-used]_(#Tools-used)
 - [Data Analysis](#data-analysis)
 - [Recommendations](#recommendations)
 
